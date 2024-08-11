@@ -20,9 +20,3 @@ Let's build something amazing together!
 ---
 
 🧰 <h4>Languages and tools</h4>
-
-![js Logo](https://github.com/user-attachments/assets/e9cdcf39-9bdb-4611-9a3b-fef5ecc96293)
-
-
-![Lua](https://img.shields.io/badge/Language-Lua-blue?logo=lua)
-![Python](https://img.shields.io/badge/Language-Python-green?logo=python)
