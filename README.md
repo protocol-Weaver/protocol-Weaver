@@ -19,4 +19,4 @@ Let's build something amazing together!
 
 ---
 
-🧰 <h4>Languages and tools</h4>
+🧰 **Languages and tools**
