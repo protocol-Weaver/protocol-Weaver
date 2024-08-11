@@ -26,3 +26,11 @@ Let's build something amazing together!
 
 
 [![Rain's GitHub | Stats](https://stats.quine.sh/Rain/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rain)
+
+---
+
+### Languages I Use:
+
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript)
+![Lua](https://img.shields.io/badge/Language-Lua-blue?logo=lua)
+![Python](https://img.shields.io/badge/Language-Python-green?logo=python)
