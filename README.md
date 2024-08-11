@@ -1,7 +1,3 @@
-Here's a profile for your GitHub:
-
----
-
 ### Hi there! 👋
 
 I'm a passionate developer with a love for creativity and problem-solving. My work spans across **web development**, **Roblox scripting**, and **AI development**. I find joy in crafting elegant solutions to complex challenges and enjoy pushing the boundaries of what technology can do.
